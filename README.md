@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center"> 
+ <img src="https://github.com/user-attachments/assets/1d98c957-2118-43b7-bbea-4752e6eee6bd">
+ <br>
+ "...jealousy's so overrated!..."
+ </br>
+</p>
 
-<!--
-**TWICECHEERUP/TWICECHEERUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>🚫 DNI </h2>
+  <p><i>Please, DNI if you are in this list:</i></p>
+  
+  <table>
+    <tr>
+      <td>
+        • prejudiced (homophobic, racist, sexist, ped0s, etc.)<br>
+        • weirdos<br>
+        • those who deliberately provoke ragebait <br>
+        • ableists. mainly ableists.
+      </td>
+    </tr>
+  </table>
+</div>
