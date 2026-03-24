@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/57adb02a-51ca-4942-95c2-221888a087b8.gif" width="200" alt="Malleus Chibi">
-  <br>
-  <font color="#00d4ff"><b>🐉 "?"</b></font>
-</p>
 
 <div align="center">
   <h2>🚫 DNI </h2>
